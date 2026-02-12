@@ -1,0 +1,321 @@
+
+
+
+/* Attoya Press Theme Colors */
+
+a {
+  color: #14a44a;
+}
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+  color: #14a44a;
+}
+.text-color { color: #14a44a;}
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  background-color: #14a44a;
+  border: 1px solid #14a44a;
+}
+button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+  color: #14a44a;
+}
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus {
+  border: 1px solid #14a44a;
+}
+#mainnav > ul > li > a.active,
+#mainnav > ul > li > a:hover {
+  color: #14a44a;
+}
+#mainnav ul li ul:after {
+  background-color: #14a44a;
+}
+#mainnav .sub-menu li:hover > a {
+  background-color: #14a44a;
+}
+.error-wrap #search-submit:hover {
+  background-color: #14a44a;
+  border-color: #14a44a;
+}
+.text-slider .maintitle:after {
+  background-color: #14a44a;
+}
+.content-area .hentry:after {
+  background-color: #14a44a;
+}
+.hentry .meta-post a:hover {
+  color: #14a44a;
+}
+.hentry blockquote {
+  border-left: 3px solid #14a44a;
+}
+.blog-pagination ul li {
+  border: 1px solid #14a44a;
+}
+.blog-pagination ul li.active,
+.blog-pagination ul li:hover a {
+  background-color: #14a44a;
+}
+.sidebar .widget:before {
+  background-color: #14a44a;
+}
+.widget-tags .tag-list a:hover {
+  border: 1px solid #14a44a;
+}
+.comment .comment-detail {
+  border: 1px solid #14a44a;
+}
+.bottom .socials li:hover a {
+  color: #ffffff;
+}
+.switcher-container .switcher-icon a:focus {
+  color: #14a44a;
+}
+.owl-theme .owl-controls .owl-page span{
+  border: 2px solid #14a44a;
+}
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span{
+  background-color: #14a44a;
+}
+.roll-icon-box .icon {
+  border: 1px solid #14a44a;
+}
+.roll-icon-box .icon i,
+.roll-icon-box .content h3 a:hover {
+  color: #14a44a;
+}
+.roll-icon-box.white .icon {
+  background-color: #14a44a;
+}
+.roll-icon-box.white .content h3 a {
+  color: #14a44a;
+}
+.roll-icon-list .icon {
+  border: 1px solid #14a44a;
+}
+.roll-icon-list .icon i,
+.roll-icon-list .content h3 a:hover {
+  color: #14a44a;
+}
+.roll-button {
+  background-color: #14a44a;
+  border: 1px solid #14a44a;
+}
+.roll-button:hover {
+  color: #14a44a;
+}
+.roll-button.border {
+  color: #14a44a;
+  border: 1px solid #14a44a;
+}
+.roll-button.border:hover {
+  background-color: #14a44a;
+}
+.roll-button.light:hover {
+  border: 1px solid #14a44a;
+  background-color: #14a44a;
+}
+.project-filter li a.active,
+.project-filter li a:hover {
+  background-color: #14a44a;
+}
+.roll-testimonials .name {
+  color: #14a44a;
+}
+.roll-project .project-item .project-pop {
+  background-color: #14a44a;
+}
+.roll-socials li a {
+  border: 1px solid #14a44a;
+}
+.roll-socials li a:hover {
+  background-color: #14a44a;
+  border: 1px solid #14a44a;
+}
+.roll-infomation li.address:before,
+.roll-infomation li.phone:before,
+.roll-infomation li.email:before {
+  color: #14a44a;
+}
+.roll-progress .progress-animate {
+  background-color: #14a44a;
+}
+.roll-team .team-item .team-pop .team-social li:hover a {
+  color: #14a44a;
+}
+.roll-team .team-item .team-pop {
+  background-color: #14a44a;
+}
+.roll-team .team-content .name {
+  color: #14a44a;
+}
+
+
+.go-top {
+  color: #ffffff;
+  background-color: #14a44a;
+}
+.go-top:hover {
+  color: #14a44a;
+  background-color: #ffffff;
+}
+
+
+
+
+
+.widget-area .widget_fp_social a,
+.social-menu-widget a,
+.social-menu-widget a:hover {
+  color: #14a44a;
+}
+
+#mainnav ul li a:hover {
+  color: #14a44a;
+}
+
+.preloader .pre-bounce1,
+.preloader .pre-bounce2 {
+  background-color: #14a44a;
+}
+
+.panel-grid-cell .widget-title:after {
+  background-color: #14a44a;
+}
+
+.attoya_contact_info_widget span {
+  color: #14a44a;
+}
+
+.archive .team-social li a {
+  color: #14a44a;
+  border: 1px solid #14a44a;
+}
+
+
+.site-footer,
+.site-footer a {
+  color: #666666;
+}
+.site-footer .social ul li a {
+  color: #7b7b7b;
+}
+.site-footer .social ul li:hover a {
+  color: #ffffff;
+}
+.site-footer .navigation ul li a {
+  color: #14a44a;
+}
+.site-footer .navigation ul li a:hover {
+  color: #ffffff;
+}
+
+
+/**
+ * Buttons
+ */
+.wp-block-button a {
+  color: #FFFFFF;
+  background-color: #14a44a;
+}
+.wp-block-button a:hover {
+  color: #FFFFFF;
+  background-color: #9e885c;
+}
+
+
+/**
+ * Customization
+ */
+.call-to-action-block {
+  padding: 6em 0;
+}
+.call-to-action-block .wp-block-button a {
+  font-size: 2em;
+}
+
+.has-large-font-size {
+  line-height: 1em;
+}
+
+
+/**
+ * Google Reviews
+ */
+.wp-gr:not(.wp-dark) .grw-review-inner.grw-backgnd {
+  background: #1e1e1e !important;
+}
+.wp-gr.wpac a.wp-google-name {
+  color: #14a44a !important;
+}
+.wpac span {
+  color: #eeeeee !important;
+}
+.wp-gr .wp-star svg path {
+  fill: #14a44a !important;
+}
+.wp-gr .grw-review-inner>svg {
+  display: none;
+}
+.wp-gr .wp-google-wr a {
+  background-color: #14a44a !important;
+}
+.wp-gr .wp-google-wr a:hover {
+  background-color: #14813e !important;
+}
+.wp-gr .wp-google-wr a:active {
+  background-color: #14813e !important;
+}
+.wp-gr .rpi-dot.active {
+  background-color: #14813e !important;
+}
+
+
+/**
+ * Header
+ */
+.site-header {
+  height: 110px !important;
+}
+.site-header .site-logo {
+  max-height: 75px !important;
+  padding-bottom: 0;
+}
+.site-header .menu {
+  margin: 0.75em 0;
+}
+
+
+/**
+ * Google Map
+ */
+.google-map {
+  filter: invert(1) contrast(83%) grayscale(1);
+}
+
+
+/**
+ * Misc
+ */
+img.rounded-corners {
+  border-radius: 10px;
+}
+
